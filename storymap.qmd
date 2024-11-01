@@ -1,0 +1,95 @@
+---
+title: "Fiche pratique réalisation d'objets hybrides"
+subtitle: "Utilisation de StorymapJS"
+author:
+    - name: Anne-Laure Donzel
+abstract: "Présentation de l'outil, rapide tuto et ressources pour aller plus loin"
+format:
+  hikmah-pdf: default
+  hikmah-manuscript-docx: default
+  hikmah-manuscript-odt: default
+  hikmah-manuscript-pdf: default
+editor: visual
+---
+
+# 1. Description
+
+Une storymap est un dispositif multimédia permettant de raconter une histoire. Elle permet de réaliser des processus narratifs très variés basés sur des fonds de cartes ou sur des images.
+
+Pour utiliser StorymapJS en mode web, vous aurez besoin d'un compte google. Si vous souhaitez réaliser une storymap sur un fond de carte, vous aurez également besoin de données géolocalisables (ou, a minima, positionnable dans l'espace).
+
+# 2. Exercice
+
+## Exercice sur un fond de carte
+
+A partir des données des archives municipales de Marseille, créons un parcours parmi les photos mises à disposition par la ville sur son portail open data.
+
+## Exercice sur un fond personnalisé
+
+Créons un parcours de découverte des anciennes istallations portuaires de Brest, sur un fonds de plan du XIXe siècle.
+
+# 3. Alternatives
+
+StorymapJS est directement intégré dans certains logiciels d'archives (Ligéo). Cela permet une intégration plus simple au portail de diffusion et un hébergement des images directement dans le SIA.
+
+StorymapJS est également disponible en ligne : https://storymap.knightlab.com/
+
+La principale alternative est [ArcGIS Sorymap](https://www.esrifrance.fr/produits/arcgis-storymaps.aspx). ArcGIS est un logiciel de SIG très répandu dans les collectivités, il peut être intéressant de vous rapprocher de votre service SIG/Géomatique pour savoir si un projet commun peut-être mené.
+
+# 4. Ressources en ligne
+
+https://histoire-geo.ac-noumea.nc/IMG/pdf/tuto_pour_debuter_sur_storymap.js-compresse.pdf
+
+# 5. Tutoriel
+
+## Storymap sur un fond de carte actuel
+
+Nous allons travailler à partir des données présentes dans le dossier "Storymap".
+
+1. Allez sur [Storymap](https://storymap.knightlab.com/) et *Make a storymap*
+
+2. Connectez-vous avec votre compte google, puis créez un nouveau projet en le nommant suivant votre souhait
+
+3. Votre Storymap va comporter une page de garde, puis des sous-pages qui composeront votre parcours
+
+4. Commençons par la page de garde, il s'agit de la première vignette. Vous pouvez ajouter un titre dans le champ *Headline*, ce sera le titre de votre parcours. Dans les *background options*, vous pouvez ajouter une image de fond à votre page de garde.
+
+![](img/storymap02.png)
+
+5. Pour les étapes du parcours : créez une vignette avec *Add slide*, sur le menu à gauche. 
+A partir du fichier .csv, repérez les éléments necessaires pour chaque vignette :
+
+* La latitude et la longitude : va vous servir à positionner la photo sur la carte
+* L'analyse : va vous permettre de mentionner un titre pour votre image et de la contextualiser
+* L'auteur : pour contextualiser votre image
+* La cote : pour sourcer l'origine de votre image
+
+Vous pouvez également choisir de contextualiser et décrire votre image avec d'autres éléments.
+
+![](img/storymap04.png)
+
+6. au fur et à mesure de l'avancement, vous pouvez faire un *preview* pour voir à quoi ressemble votre storymap
+
+7. Le bouton *options* en haut, à gauche, vous sert à gérer différents paramètres généraux de la storymap : la langue, les polices de caractère, le type de fond carte, la présence du bouton *start* sur la page de garde...
+
+![](img/storymap05.png)
+8. Pour le partage, comme pour les autres outils en cliquant sur *share*, vous accédez à différentes possibilités : lien et code d'intégration.
+
+## Storymap sur un fond personnalisé
+
+1. Vous pouvez positionner des images sur une image
+
+![](img/storymap06.png)
+
+2. Pour cela vous aller avoir besoin d'une image en haute définition (ce sera votre fond) que vous devrez transformer en une image Gigapixel
+
+3. Pour cette transformation, vous pouvez utiliser l'outil [Zoomable](https://srv2.zoomable.ca/upload_new.php). En important une image, il va la transformer et vous envoyer un lien par mail. Ce lien va vous donnez accès à votre image, vous neremarquerez aucun changement, mais elle a été traitée pour être agrandie sans perte de qualité. En haut à droite vous allez récupérer le lien pour Storymap/Zoomify.
+
+![](img/storymap07.png)
+
+4. Dans storymap, il va falloir déclarer cette image comme fond, à la place du fond cartographique.
+Dans les options en haut à gauche, vous allez renseigner l'url en indiquant que votre carte est de type Gigapixel et traitée comme une image. Enfin vous devez reporter les mesures de votre image.
+
+![](img/storymap08.png)
+
+5. Pour le reste, cela fonctionne de la même façon, la seule différence est que vous positionner vos images à la main et non pas avec des coordonnées géographiques.
