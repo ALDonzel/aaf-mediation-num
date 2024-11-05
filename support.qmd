@@ -162,19 +162,26 @@ Qu'allez-vous chercher à faire ? Quelle sera l'ojectif de vos actions de média
 
 Parfois, les actions de médiation se perdent dans les sites des services et elles sont peu mises en avant. Si votre service y consacre du temps, il faut que cela soit visible.
 
+![](img/mourizal-zativa-gNMVpAPe3PE-unsplash.jpg){fig-align="center"}
+
 ## Des publics
 
 Les publics des archives sont nombreux et variés : chercheurs (expérimentés ou non), généalogistes, enfants lors d'action pédagogique, curieux...
+![](img/patrick-federi-RshUMrKap-0-unsplash.jpg){fig-align="center"}
 
 ## Des compétences
 
 C'est au coeur de cette formation ! derrières les actions de médiation, il y a des agents : qui s'en charge ? avec quels moyens ? quel accompagnement ?
+
+![](img/philip-swinburn-vS7LVkPyXJU-unsplash.jpg){fig-align="center"}
 
 ## Des données
 
 Peu importe ce que vous allez chercher à faire : il va vous falloir des données ! et, assez vite, vous allez voir qu'elles ont souvent plein de petits défauts.
 
 > De quelles données disposez-vous dans vos services ?
+
+![](img/google-deepmind-Oy2yXvl1WLg-unsplash.jpg){fig-align="center"}
 
 # Les types de format
 
@@ -204,13 +211,13 @@ Pour chaque outil, nous aurons des exercices simples et des plus complexes, et v
 
 -   Mettre en avant les transformations d'un territoire ou d'un lieu
 
-    -   [Evolution du Théâtre de la Commune, Aubervilliers](https://archives.aubervilliers.fr/De-la-salle-des-fetes-au-Theatre-de-la-Commune)
+    - [Evolution du Théâtre de la Commune, Aubervilliers](https://archives.aubervilliers.fr/De-la-salle-des-fetes-au-Theatre-de-la-Commune)
 
 -   Valoriser le travail du service des archives
 
-    -   [Montrer le travail de restauration](https://www.archives13.fr/n/l-education-des-vers-a-soie/n:242)
+    - [Montrer le travail de restauration](https://www.archives13.fr/n/l-education-des-vers-a-soie/n:242)
 
-    -   [Communiquer sur le conditionnement](https://www.archives-loiret.fr/nouveau-batiment/les-archives-demenagent/en-attendant-le-demenagement)
+    - [Communiquer sur le conditionnement](https://www.archives-loiret.fr/nouveau-batiment/les-archives-demenagent/en-attendant-le-demenagement)
 
 ## Comment faire ?
 
@@ -311,9 +318,24 @@ Nous allons utiliser l'outil : [StorymapJS](https://storymap.knightlab.com/)
 
 ## Crédits images
 
+::: columns
+::: {.column width="50%"}
 Photo de couverture <a href="https://unsplash.com/fr/@maxberg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Maxim Berg</a> sur <a href="https://unsplash.com/fr/photos/un-fond-abstrait-rose-et-bleu-avec-des-lignes-ondulees-ZePAAZDt4XU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo p.  <a href="https://unsplash.com/fr/@felix_mittermeier?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Felix Mittermeier</a> sur <a href="https://unsplash.com/fr/photos/pieces-dechecs-sur-lechiquier-nAjil1z3eLk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+ Photo p.  <a href="https://unsplash.com/fr/@mourimoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mourizal Zativa</a> sur <a href="https://unsplash.com/fr/photos/blocs-lego-bleus-rouges-jaunes-et-verts-gNMVpAPe3PE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+:::
+
+
+::: {.column width="50%"}
+Photo p. <a href="https://unsplash.com/fr/@federi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Patrick Federi</a> sur <a href="https://unsplash.com/fr/photos/une-vue-aerienne-dune-autoroute-a-plusieurs-voies-RshUMrKap-0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Photo p. <a href="https://unsplash.com/fr/@pjswinburn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Philip Swinburn</a> sur <a href="https://unsplash.com/fr/photos/ensemble-doutils-de-sculpture-vS7LVkPyXJU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
+Photo p. <a href="https://unsplash.com/fr/@googledeepmind?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Google DeepMind</a> sur <a href="https://unsplash.com/fr/photos/un-vase-en-cristal-avec-des-fleurs-roses-dedans-Oy2yXvl1WLg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+
 Photo p. <a href="https://unsplash.com/fr/@jeshoots?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">JESHOOTS.COM</a> sur <a href="https://unsplash.com/fr/photos/personne-tenant-un-vaporisateur-en-plastique-jaune-__ZMnefoI3k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  
+:::
+:::  

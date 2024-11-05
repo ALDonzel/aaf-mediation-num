@@ -2,19 +2,19 @@
 
 ## Support de la formation
 
-
+https://aldonzel.github.io/aaf-mediation-num/support.html
 
 ## Fiches tutoriels et exercices
     
-- JuxtaposeJS : 
+- JuxtaposeJS : https://aldonzel.github.io/aaf-mediation-num/juxtapose.pdf
 
-- TimelineJS : 
+- TimelineJS : https://aldonzel.github.io/aaf-mediation-num/timeline.pdf
 
-- uMap :
+- uMap : https://aldonzel.github.io/aaf-mediation-num/umap.pdf
 
-- Open Refine :
+- Open Refine : https://aldonzel.github.io/aaf-mediation-num/openrefine.pdf
 
-- StorymapJS :
+- StorymapJS : https://aldonzel.github.io/aaf-mediation-num/storymap.pdf
     
 ## Données sources pour les exercices
 
