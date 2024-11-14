@@ -36,6 +36,8 @@ StorymapJS est également disponible en ligne : https://storymap.knightlab.com/
 
 La principale alternative est [ArcGIS Sorymap](https://www.esrifrance.fr/produits/arcgis-storymaps.aspx). ArcGIS est un logiciel de SIG très répandu dans les collectivités, il peut être intéressant de vous rapprocher de votre service SIG/Géomatique pour savoir si un projet commun peut-être mené.
 
+L'IGN propose aussi un outil pour réaliser des [cartes narratives](https://macarte.ign.fr/edition/narration/). Vous pouvez trouver un exemple [ici](https://macarte.ign.fr/carte/b8100cb135525269c66b4add62e0d62b/Voyage-avec-un-Ane). 
+
 # 4. Ressources en ligne
 
 https://histoire-geo.ac-noumea.nc/IMG/pdf/tuto_pour_debuter_sur_storymap.js-compresse.pdf

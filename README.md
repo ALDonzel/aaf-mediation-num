@@ -1,5 +1,9 @@
 # Formation AAF "Les outils de la médiation numérique"
 
+## Pad pour la session
+
+https://digidoc.app/p/672c86e3836ef
+
 ## Support de la formation
 
 https://aldonzel.github.io/aaf-mediation-num/support.html

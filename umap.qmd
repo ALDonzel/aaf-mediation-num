@@ -20,19 +20,23 @@ Pour l'utiliser, vous aurez besoin d'un fichier de données (csv) avec une dimen
 
 # 2. Exercice
 
-## Exercice sans géocodage
+## Exercice avec coordonnées géographiques
 
 Cartographions le lieu de naissance de quelques députés de la IIIème République, à partir du fichier "depute-complet-umap.csv". Sur ce [modèle](https://umap.openstreetmap.fr/fr/map/carte-sans-nom_1119946).
 
-## Exercice avec géocodage
+## Exercice sans coordonnées géographiques
 
-Cartographions ls aides aux artistes avec le fichier "secours-aux-artistes-et-artisans-geocode.csv". Sur ce [modèle](https://umap.openstreetmap.fr/fr/map/carte-sans-nom_1119946). [modèle](https://umap.openstreetmap.fr/fr/map/new/)
+Cartographions les aides aux artistes avec le fichier "secours-aux-artistes-et-artisans.csv". Sur ce [modèle](https://umap.openstreetmap.fr/fr/map/carte-sans-nom_1119946). Pour cela, nous allons devoir réaliser une étape supplémentaire : l'ajout de coordonnées géographiques.
+
+## Exercice avec Khartis
+
+Avec Khartis, nous allons réaliser une carte à la frontière entre la datavisualisation et la cartographie. Cette carte sera basée sur un [jeu de données du SIAF](https://data.culture.gouv.fr/explore/dataset/circulation-des-archives-suivi-demandes-sortie-hors-territoire-communautaire/information/) qui a été retravaillé (fichier "pays_circulation_archives.csv").
 
 # 3. Alternatives
 
--   [GoGoCarto](https://gogocarto.fr/projects) : très proche de uMap
+-   [GoGoCarto](https://gogocarto.fr/projects) : très proche de uMap.
 
--   [Khartis](https://www.sciencespo.fr/cartographie/khartis/) : projet du MediaLab de SciencePo, avantage de Khartis : possède des fonds de carte des départements de la IIIè République et permet d'ajouter son propre fonds de carte (quelques pistes de fonds de carte historique [ici](https://ausohnum.hypotheses.org/1089))
+-   [Khartis](https://www.sciencespo.fr/cartographie/khartis/) : projet du MediaLab de SciencePo, avantages de Khartis : l'outil possède des fonds de carte des départements de la IIIè République et permet d'ajouter son propre fonds de carte (quelques pistes de fonds de carte historique [ici](https://ausohnum.hypotheses.org/1089)). Très utile aussi pour faire des cartes de type choroplètes. En revanche, ne permet pas de faire des cartes dynamiques.
 
 # 4. Ressources en ligne
 
@@ -48,7 +52,7 @@ https://docs.framasoft.org/fr/umap/
 
 ## Réalisation de la carte
 
--   **Importer vos données** : uMap va suivre une logque de calque, chaque jeu de données devra être sur un calque à part, ainsi vous pourrez affiner vos paramétrages. L'import se fait en allant chercher votre fichier, en spécifiant le format.
+-   **Importer vos données** : uMap va suivre une logique de calque, chaque jeu de données devra être sur un calque à part, ainsi vous pourrez affiner vos paramétrages. L'import se fait en allant chercher votre fichier, en spécifiant le format.
 
 ![](img/umap01.png)
 

@@ -40,9 +40,13 @@ Créer une frise chronologique de l'AAF, à partir des informations suivantes :
 
 -   1969 : changement de dénomination l'AAPAF, qui devient l'[Association des Archivistes Français](https://www.persee.fr/doc/gazar_0016-5522_1969_num_65_1_2084)
 
+3. Exercice 3 : [frise et cartographie des députés avec TimeMapper](https://timemapper.okfnlabs.org/anon/ditgwf-dputs-de-la-iiime-rpublique-test-timemapper#6)
+
 # 3. Alternatives
 
--   [Sutori](https://www.sutori.com/en/stories/sutori)
+- [Sutori](https://www.sutori.com/en/stories/sutori)
+
+- [TimeMapper](https://timemapper.okfnlabs.org/)
 
 # 4. Ressources en ligne
 

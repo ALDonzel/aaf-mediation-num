@@ -15,17 +15,25 @@ title-slide-attributes:
 
 # Présentation de la formation {background-color="PowderBlue"}
 
-## Objectifs de la formation
+## Au programme
 
--   S'interroger sur les pratiques
--   Découvrir des outils
--   Partager des exemples
+::: columns
+::: {.column width="50%"}
+### Ce que nous allons faire
 
-## Limites de la formation
+-   Nous allons nous interroger sur les pratiques de médiation numérique
+-   Nous allons découvrir des outils
+-   Je vais vous partager des exemples
+:::
 
--   Sélection d'outils forcément partiale
--   Peu de temps pour manipuler
--   La seule limite = créativité
+::: {.column width="50%"}
+### Ce que nous ne ferons pas
+
+-   Nous ne verrons pas l'intégralité des outils qui existent
+-   Nous aurons peu de temps pour explorer toutes les fonctionnalités des outils
+-   Notre seule limite = le manque de temps
+:::
+:::
 
 ## Déroulé
 
@@ -78,15 +86,15 @@ traditionnellement : 2 types de médiation. D'un côté celle qui guide le lecte
 ## De la médiation à la médiation numérique
 
 -   Faire comprendre et faciliter la capacité à s'emparer d'un sujet
--   Diffuser autrement
+-   Diffuser autrement ses contenus
 -   Toucher d'autres publics
 -   Exploiter de nouveaux formats
 
-Comment définir la médiation numérique ?
+Quelles sont les spécificités de la médiation numérique ?
 
--   Utilise les potentialités du numérique
+-   Utilise les potentialités du numérique : dynamique, adaptatif, asynchrone...
 -   Multimédia ou "cross-média"
--   Ne se limite pas aux réseaux sociaux
+-   Ne se limite à la diffusion sur les réseaux sociaux
 
 ::: notes
 la diffusion des archives en ligne pose la question d'une autre forme de médiation. Cette diffusion remet partiellement en cause le rapport traditionnel entre « sachant » et « non sachant » ; partiellement, car les documents sont théoriquement accessibles et utilisables par tous. Mais sans grille de lecture pour décoder, le sont-ils vraiment ?
@@ -155,7 +163,6 @@ Exemple : [Exposition + 2°C ? Les Val-de-Marnais, le climat et l'environnement]
 
 Qu'allez-vous chercher à faire ? Quelle sera l'ojectif de vos actions de médiation ? Est-ce que cela s'inscrit dans un projet de service ?
 
-
 ![](img/felix-mittermeier-nAjil1z3eLk-unsplash.jpg){fig-align="center"}
 
 ## Une réflexion cohérente
@@ -197,9 +204,7 @@ Peu importe ce que vous allez chercher à faire : il va vous falloir des donnée
 
 -   Créer des cartes
 
--   Créer des graphiques
-
--   Créer des dispositifs multimédias
+-   Créer des cartes narratives
 
 Et nous apprendrons aussi à nettoyer et enrichir des données
 
@@ -212,6 +217,8 @@ Pour chaque outil, nous aurons des exercices simples et des plus complexes, et v
 -   Mettre en avant les transformations d'un territoire ou d'un lieu
 
     - [Evolution du Théâtre de la Commune, Aubervilliers](https://archives.aubervilliers.fr/De-la-salle-des-fetes-au-Theatre-de-la-Commune)
+
+    - [Comparaison cartographique des archives de Montpellier](https://macarte.ign.fr/carte/Seaakw/Archives-Montpellier)
 
 -   Valoriser le travail du service des archives
 
@@ -235,6 +242,8 @@ Nous allons utiliser l'outil : [JuxtaposeJS](https://juxtapose.knightlab.com/)
     
     - Une histoire au jour le jour : [Archives départementales de l'Aisne](https://archives.aisne.fr/chronologies/n:134)
 
+    - Eclairer la vie d'un personnage local : [Archives départemantales des Bouches-du-Rhône](https://www.archives13.fr/chronologie/henri-jacques-esperandieu-50)
+
 ## Comment faire ?
 
 Nous allons utiliser l'outil : [TimelineJS](https://timeline.knightlab.com/)
@@ -243,13 +252,15 @@ Nous allons utiliser l'outil : [TimelineJS](https://timeline.knightlab.com/)
 
 2.  Exercice 2 : frise de l'AAF
 
+3. Exercice 3 : [frise et cartographie des députés avec TimeMapper](https://timemapper.okfnlabs.org/anon/ditgwf-dputs-de-la-iiime-rpublique-test-timemapper#6)
+
 ## Quelques bonnes pratiques
 
-- Illustrer chaque évènement
+- Illustrer chaque évènement avec une image
 
-- Eviter les chronologie trop longue (ou bien penser votre navigation)
+- Eviter les chronologie trop longue (ou bien penser votre navigation en conséquence)
 
-- Ne penser pas la chronologie aussi comme un outil pour raconter des petites histoires. cela fonctionne très bien avec 20 évènements se déroulant sur 15 jours.
+- Imaginer la chronologie aussi comme un outil pour raconter des "petites histoires". Cela fonctionne très bien avec 20 évènements se déroulant sur 15 jours.
 
 # Créer des cartes {background-color="LightCyan"}
 
@@ -259,13 +270,25 @@ Nous allons utiliser l'outil : [TimelineJS](https://timeline.knightlab.com/)
 
 - Très adapté aux [fonds iconographiques](https://umap.openstreetmap.fr/fr/map/carte-des-photos-en-open-data-des-am-de-marseille_628303#12/43.3266/5.4252)
 
-- Très apprécié pour la [réutilisation]((https://umap.openstreetmap.fr/fr/map/documents-figures-des-archives-departementales-des_150869#8/48.146/-1.950))
+- Favorise les [réutilisations de données]((https://umap.openstreetmap.fr/fr/map/documents-figures-des-archives-departementales-des_150869#8/48.146/-1.950))
 
 - Rendre [visible des phénomènes](https://archives.orleans-metropole.fr/sources-et-ressources-en-ligne/instruments-de-recherche/autorisations-durbanisme/visualisation-dynamique-des-permis-de-construire-de-1945-a-2007)
 
 ## Comment faire ?
 
 Nous allons utiliser l'outil : [uMap](https://umap.openstreetmap.fr/fr/)
+
+1.  Exercice 1 : [carto des députés avec un fichier géocodé](https://umap.openstreetmap.fr/fr/map/deputes-exercice-umap_1119946#7/48.553/3.582)
+2.  Exercice 2 : [carto des aides aux artistes sans coordonnées géographiques](https://umap.openstreetmap.fr/fr/map/aides-aux-artistes_1119993#13/48.8658/2.3349)
+3. Exercice 3 : test de [Khartis](https://www.sciencespo.fr/cartographie/khartis/) à partir de données sur la [circulation des archives à l'étranger](https://data.culture.gouv.fr/explore/dataset/circulation-des-archives-suivi-demandes-sortie-hors-territoire-communautaire/information/)
+
+## Quelques bonnes pratiques
+
+- Réfléchir à sa carte : doit-elle être dynamique ? sur quel territoire ? que souhaitez-vous rendre visible (une localisation, une répartition) ?
+
+- Bien structurer son fichier en amont suivant son besoin
+
+- Réfléchir en terme cartographique avec la logique de calques
 
 # Nettoyer et enrichir des données {background-color="LightCyan"}
 
@@ -292,6 +315,8 @@ L'outil pour tout faire : **Open Refine**
 
 Les cartes type uMap sont parfois un peu figées et on aimerait les enrichir de différents médias. Elles permettent aussi de réunir tout ce qu'on a vu précédemment. 
 
+- Exemple des [Archives de Montpellier](https://macarte.ign.fr/carte/Seaakw/Archives-Montpellier)
+
 - Exemple des [Archives de Poitiers](https://storymaps.arcgis.com/collections/9a11ba9ba4fa40389c188924aad51844?item=1) 
 
 - Exemple des [Archives d'Orléans](https://storymaps.arcgis.com/stories/e2cefbbcdb7d498289241459af733416)
@@ -310,9 +335,13 @@ Nous allons utiliser l'outil : [StorymapJS](https://storymap.knightlab.com/)
 
 ![](img/outils.png){fig-align="center"}
 
-# Une base de ressources {background-color="PowderBlue"}
+# Ressources {background-color="PowderBlue"}
 
-[Base d'exemples](https://aldonzel.github.io/archives-mediation/)
+- [Base d'exemples](https://aldonzel.github.io/archives-mediation/)
+
+- [Carte mentale d'outils numériques](https://framindmap.org/c/maps/112622/embed?zoom=1) réalisée par Maïwenn Bourdic
+
+- [Liste d'outils pour réaliser des cartes narratives](https://cartonumerique.blogspot.com/p/storymaps.html)
 
 # Merci !
 
