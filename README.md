@@ -22,7 +22,7 @@ https://aldonzel.github.io/aaf-mediation-num/support.html
     
 ## Données sources pour les exercices
 
-- Images :
+- Images : https://github.com/ALDonzel/aaf-mediation-num/tree/main/img
 
-- Jeux de données
+- Jeux de données : https://github.com/ALDonzel/aaf-mediation-num/tree/main/dataset
 
