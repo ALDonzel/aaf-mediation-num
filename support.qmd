@@ -148,7 +148,7 @@ Exemple : [Exposition + 2°C ? Les Val-de-Marnais, le climat et l'environnement]
 
 **Les quizz :**
 
-- [AD de Seine-Maritime](https://www.archivesdepartementales76.net/quizz/quizzbyid/n:182)
+- [AD de Seine-Maritime](https://www.archiveselentales76.net/quizz/quizzbyid/n:182)
 
 - [AD des Bouches-du-Rhône](https://www.archives13.fr/n/quiz-aco/n:239)
 :::
@@ -242,7 +242,7 @@ Nous allons utiliser l'outil : [JuxtaposeJS](https://juxtapose.knightlab.com/)
     
     - Une histoire au jour le jour : [Archives départementales de l'Aisne](https://archives.aisne.fr/chronologies/n:134)
 
-    - Eclairer la vie d'un personnage local : [Archives départemantales des Bouches-du-Rhône](https://www.archives13.fr/chronologie/henri-jacques-esperandieu-50)
+    - Eclairer la vie d'un personnage local : [Archives départementales des Bouches-du-Rhône](https://www.archives13.fr/chronologie/henri-jacques-esperandieu-50)
 
 ## Comment faire ?
 
@@ -320,8 +320,6 @@ Nous allons utiliser l'outil : [uMap](https://umap.openstreetmap.fr/fr/)
 
 Les cartes type uMap sont parfois un peu figées et on aimerait les enrichir de différents médias. Elles permettent aussi de réunir tout ce qu'on a vu précédemment. 
 
-- Exemple des [Archives de Montpellier](https://macarte.ign.fr/carte/Seaakw/Archives-Montpellier)
-
 - Exemple des [Archives de Poitiers](https://storymaps.arcgis.com/collections/9a11ba9ba4fa40389c188924aad51844?item=1) 
 
 - Exemple des [Archives d'Orléans](https://storymaps.arcgis.com/stories/e2cefbbcdb7d498289241459af733416)
@@ -338,7 +336,7 @@ Nous allons utiliser l'outil : [StorymapJS](https://storymap.knightlab.com/)
 
 ## Quelques bonnes pratiques
 
-- Ne pas chercher a faire des cartes narratives trop longues (une vintaine d'évènements max.)
+- Ne pas chercher à faire des cartes narratives trop longues (une vingtaine d'évènements max.)
 
 - Bien penser l'articulation évènement/carte pour éviter le mal de mer lors de la consultation de la carte.
 
